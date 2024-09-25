@@ -1,3 +1,7 @@
+/*Problem 4: Swap Two Nodes of Doubly Linked List
+Given a pointer to the head node of a doubly linked list and two keys, swap these two nodes of
+the list (if these nodes exists in the list).*/
+
 public class deleteANodeFromDoublyLinkedList {
     class Node{
         int data;
