@@ -1,3 +1,6 @@
+/*Given a pointer to the head node of a doubly linked list, insert a new node with a given value at
+a specified position.*/
+
 public class deleteANodeFromDoublyLinkedList {
     class Node{
         int data;
