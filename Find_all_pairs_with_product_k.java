@@ -1,3 +1,9 @@
+/*Write a Java program that finds all unique pairs of integers in an array whose product equals a
+target value k. Your program should:
+● Take an integer array nums[] and an integer k as input.
+● Print all unique pairs whose product equals k.
+● If no such pairs exist, the program should output an appropriate message*/
+
 import java.util.*;
 
 public class findAllPairsWithProduct0 {
