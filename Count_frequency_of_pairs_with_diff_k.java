@@ -1,3 +1,7 @@
+/* You are tasked with counting how many pairs of integers in an array have a specific difference
+k. Write a Java program that takes an integer array arr[] and an integer k, and outputs the
+count of unique pairs where the absolute difference between the pairs is k*/
+
 import java.util.*;
 public class CountFrequencyOfPairsWithDifferenceK {
     public static void main(String[] args) {
