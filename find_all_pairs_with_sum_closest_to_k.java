@@ -1,3 +1,10 @@
+/*You are given an integer array arr[] and an integer k. Write a Java program that finds all
+unique pairs of integers in the array such that their sum is closest to k without exceeding it. The
+program should:
+● Print all unique pairs whose sum is closest to k.
+● If no such pairs exist, the program should output an appropriate message.*/
+
+
 import java.util.*;
 public class find_all_pairs_with_sum_closest_k {
     public static void main(String[] args) {
