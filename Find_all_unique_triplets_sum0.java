@@ -1,3 +1,11 @@
+/*Given an integer array nums[], write a Java program to find all unique triplets (i.e.,
+combinations of three numbers) such that their sum is zero. Your program should meet the
+following requirements:
+● The program should take an integer array nums[] as input.
+● It should print all unique triplets that sum to zero.
+● If no such triplet exists, the program should output an appropriate message.
+*/
+
 import java.util.*;
 public class FindAlluniqueTripletsWithSum0 {
     public static void main(String[] args) {
