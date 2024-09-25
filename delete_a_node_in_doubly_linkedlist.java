@@ -1,3 +1,6 @@
+/* Given a pointer to the head node of a doubly linked list and a key, delete the node containing
+that key from the list (if it exists).*/
+
 public class deleteANodeFromDoublyLinkedList {
     class Node{
         int data;
