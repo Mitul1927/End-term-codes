@@ -1,3 +1,9 @@
+/*Write a function that takes a string as input and returns a list of all unique words (case
+insensitive) present in the string. Words are separated by space(s).
+Example:
+● Input: "Hello world hello"
+● Output: ["hello", "world"]*/
+
 import java.util.*;
 public class FindAllUniqueWordsInAString {
     public static void main(String[] args) {
